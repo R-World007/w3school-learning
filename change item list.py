@@ -15,3 +15,9 @@ list2 = ['apple','banana','cherry']
 list2[1:2] = ['pineapple','mango']
 print(list2)
 
+#Insert Items   insert()
+list3 = ["Sai","Moe","Hein",]
+list3.insert(2,"Moe")
+print(list3)
+
+
